@@ -1,7 +1,54 @@
 #today{
-  background-color: #CEF2E0;
+  background-color: #F5FFFA;
+  border: 1px solid #CEF2E0;
 }
 
 #news{
+  background-color: #F5FAFF;
+  border: 1px solid #CEDFF2;
+}
+
+.today-title {
+  background-color: #CEF2E0;
+  border: 1px solid #A3BFB1;
+}
+
+.news-title {
   background-color: #CEDFF2;
+  border: 1px solid #A3B0BF
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+#picture {
+  background-color: #FAF5FF;
+  border: 1px solid #DDCEF2;
+}
+
+#picture-title{
+  background-color: #DDCEF2;
+  border: 1px solid #AFA3BF;
+}
+
+#turtle{
+  float: right;
+  height:auto;
+  width: 100px;
+}
+
+#turtle-text{
+  font-size: 0.8em;
+
+}
+#news-image{
+  float: right;
+  height:auto;
+  width: 120px;
+}
+
+#plane2-text {
+  font-size: 0.8em;
 }
